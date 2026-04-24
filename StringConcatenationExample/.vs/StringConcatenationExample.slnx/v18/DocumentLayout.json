@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Daniel\\Documents\\Lexicon\\C# basics\\StringConcatenationExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D5C0DE0-023F-E6BE-53C3-749E843CA733}|StringConcatenationExample\\StringConcatenationExample.csproj|c:\\users\\daniel\\documents\\lexicon\\c# basics\\stringconcatenationexample\\stringconcatenationexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D5C0DE0-023F-E6BE-53C3-749E843CA733}|StringConcatenationExample\\StringConcatenationExample.csproj|solutionrelative:stringconcatenationexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\Lexicon\\C# basics\\StringConcatenationExample\\StringConcatenationExample\\Program.cs",
+              "RelativeDocumentMoniker": "StringConcatenationExample\\Program.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\Lexicon\\C# basics\\StringConcatenationExample\\StringConcatenationExample\\Program.cs",
+              "RelativeToolTip": "StringConcatenationExample\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wBgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T13:50:37.485Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
